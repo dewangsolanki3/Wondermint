@@ -1,0 +1,17 @@
+
+
+.CountDown{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+.CountDown_item p{
+    font-size: 3rem;
+    line-height: 0;
+    font-weight: 900;
+}
+
+.CountDown_item span{
+    font-weight: 600;
+}
